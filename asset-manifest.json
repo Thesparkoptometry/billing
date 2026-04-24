@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/billing-app/static/css/main.47fa1032.css",
+    "main.js": "/billing-app/static/js/main.58f36e55.js",
+    "index.html": "/billing-app/index.html",
+    "main.47fa1032.css.map": "/billing-app/static/css/main.47fa1032.css.map",
+    "main.58f36e55.js.map": "/billing-app/static/js/main.58f36e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47fa1032.css",
+    "static/js/main.58f36e55.js"
+  ]
+}
